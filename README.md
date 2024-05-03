@@ -3,7 +3,7 @@
 ## Contextualização:
 
 House Rocket é uma empresa de compra e venda de imóveis localizada em Seattle (EUA) utilizando plataforma digital.
-O propósito do projeto é obter insights através de análise de dados, identificar as melhores oportundiades de negócio para a empresa e apresentar resultados de forma clara e satisfatória. 
+O propósito do projeto é obter insights através de análise de dados, identificar as melhores oportunidades de negócio para a empresa e apresentar resultados de forma clara e satisfatória. 
 
 Os dados podem ser obtidos no dataset público arquivado no site Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction.
 
